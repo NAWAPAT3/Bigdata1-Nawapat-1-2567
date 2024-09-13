@@ -153,12 +153,9 @@ export default function AI() {
               <div className="flex-grow pl-6">
                 <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
                   AI ตรวจวินิจฉัยโรคหัวใจ
-                </h2>
+                </h2>  
                 <p className="leading-relaxed text-base">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                  banh mi pug VHS try-hard ugh iceland kickstarter tumblr
-                  live-edge tilde.
+                 <a href="http://127.0.0.1:8000/" target="blank" rel= "noopener noreferer">คลิกเพื่อตรวจโรคหัวใจที่นี่</a>
                 </p>
                 <a className="mt-3 text-indigo-500 inline-flex items-center">
                   Learn More
