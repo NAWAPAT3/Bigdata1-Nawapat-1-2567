@@ -1,11 +1,10 @@
 import Mainconnect from "@/components/Mainconnect";
 import React from "react";
 
-export default function Home() {
+export default function page() {
   return (
     <div>
-      {/* <Hero /> */}
-      <Mainconnect/>
+      <Mainconnect />
     </div>
   );
 }
